@@ -1,0 +1,58 @@
+jv/basico/dio/QuantidadeDePassageiros.java
+ jv.basico.dio.QuantidadeDePassageiros
+exercicios/lista3/LadosTriangulo.java
+ exercicios.lista3.LadosTriangulo
+jv/basico/dio/Atendente.java
+ jv.basico.dio.Atendente
+jv/basico/dio/FaturaCliente.java
+ jv.basico.dio.FaturaCliente
+jv/basico/dio/Supervisor.java
+ jv.basico.dio.Supervisor
+jv/basico/dio/Atividade2.java
+ jv.basico.dio.Atividade2
+exercicios/lista3/ParOuImpar.java
+ exercicios.lista3.ParOuImpar
+jv/basico/dio/Data.java
+ jv.basico.dio.Data
+jv/basico/dio/Gerente.java
+ jv.basico.dio.Gerente
+exercicios/lista2/TabuadaUsuario.java
+ exercicios.lista2.TabuadaUsuario
+jv/basico/dio/Embarque.java
+ jv.basico.dio.Embarque
+jv/basico/dio/DataNew.java
+ jv.basico.dio.DataNew
+jv/basico/dio/MinhaMoto.java
+ jv.basico.dio.MinhaMoto
+jv/basico/dio/Desembarque.java
+ jv.basico.dio.Desembarque
+jv/basico/dio/Moto.java
+ jv.basico.dio.Moto
+exercicios/lista3/MediaAlunoAprRep.java
+ exercicios.lista3.MediaAlunoAprRep
+jv/basico/dio/Funcionarios.java
+ jv.basico.dio.Funcionarios
+exercicios/lista2/TrocaDeNomes.java
+ exercicios.lista2.TrocaDeNomes
+exercicios/lista1/TabuadaDoDois.java
+ exercicios.lista1.TabuadaDoDois
+jv/basico/dio/Atividade1.java
+ jv.basico.dio.Atividade1
+exercicios/lista2/Ola.java
+ exercicios.lista2.Ola
+exercicios/lista1/Media.java
+ exercicios.lista1.Media
+exercicios/lista4/Compra.java
+ exercicios.lista4.Compra
+exercicios/lista2/MediaAlunoMatematica.java
+ exercicios.lista2.MediaAlunoMatematica
+jv/basico/dio/Carro.java
+ jv.basico.dio.Carro
+jv/basico/dio/Holerite.java
+ jv.basico.dio.Holerite
+exercicios/lista1/AreaTriangulo.java
+ exercicios.lista1.AreaTriangulo
+exercicios/lista4/Desconto.java
+ exercicios.lista4.Desconto
+exercicios/lista4/MaiorValor.java
+ exercicios.lista4.MaiorValor
